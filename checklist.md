@@ -13,10 +13,10 @@ cd ~/dp/util
 . venv/bin/activate
 ./make_project.py
 ```
-* [ ] Read the [project comments](https://www.pgdp.net/c/project.php?id=projectID676593ebf2d84#project-comments)
-* [ ] Subscribe to the [forum topic](https://www.pgdp.net/phpBB3/viewtopic.php?t=82933) and read all posts
-* [ ] Open `nosmoth-utf8.txt` in Guiguts
-* [ ] `File → Project → Configure Page Labels`. Check for roman numerals and unnumbered pages. Go to end of book to check page numbers line up.
+* [X] Read the [project comments](https://www.pgdp.net/c/project.php?id=projectID676593ebf2d84#project-comments)
+* [X] Subscribe to the [forum topic](https://www.pgdp.net/phpBB3/viewtopic.php?t=82933) and read all posts
+* [X] Open `nosmoth-utf8.txt` in Guiguts
+* [X] `File → Project → Configure Page Labels`. Check for roman numerals and unnumbered pages. Go to end of book to check page numbers line up.
 
 ### Sequential Inspection of Text
 * [ ] `Preferences → Appearance → Enable Scanno Highlighting`
