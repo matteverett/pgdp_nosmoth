@@ -35,7 +35,7 @@ Printed for <sc>M. Cooper</sc>, at the <i>Globe</i> in
 (Price Six-Pence.)
 */
 -----File: 002.png---------------------------------------------------------
-[Blank Page]
+[**Library Stamp]
 -----File: 003.png---------------------------------------------------------
 
 
@@ -278,13 +278,14 @@ Tryal more Intelligible.
 THE
 TRYAL, &c.
 
+
 On the Day appointed for the Tryal,
 the great Council of Mandarins
 assembled in a great Hall, in the second
 Court of the King's Palace, the President
-was seated on a Throne, under the Ca-*
+was seated on a Throne, under the Canopy
 -----File: 012.png---------------------------------------------------------
-*nopy of State; the Ensigns of his high
+of State; the Ensigns of his high
 Office being carried before him, and attended
 by twenty four Officers with
 drawn Sabres in their Hands, who stood
@@ -304,7 +305,7 @@ him, but load him with new Honours;
 after a short Speech to this Purpose, Silence
 was again commanded, and the
 <i>Mandarin</i> Secretary, was ordered to read
-his Indictment;  which was conceived
+his Indictment; which was conceived
 in Words to this Effect.
 
 You <i>Nosmoth</i>, Doctor of the Divine
@@ -336,9 +337,9 @@ a <i>Lancet</i>, stab the said <i>Mandarin</i> in the
 right and left Arm, and didst take from
 him, a large Quantity of his Blood, to
 the amount of fifty seven Ounces; and
-likewise didst prevail with the said <i>Man-*</i>
+likewise didst prevail with the said <i>Mandarin</i>,
 -----File: 014.png---------------------------------------------------------
-<i>*darin</i>, by false unreasonable, and scandalous
+by false unreasonable, and scandalous
 Suggestions, to swallow certain Quantities
 unknown, of poisonous Drugs, for
 sixteen or seventeen Days together; and likewise
@@ -463,7 +464,7 @@ Formalites as before gave Orders for proceeding
 on the Tryal, which was accordingly
 done by the Council for the Emperor,
 who rising up opened the Case as
-follows,
+follows,[**.?]
 
 
 <i>Council for the Emperor.</i>
@@ -669,9 +670,9 @@ Practice, is like a self-evident Truth in the
 Mathematicks; all Diseases flow from peccant
 Humours, being mix'd with the Mass
 of Blood, which are so closely united to it,
-that they cannot be discharged by Perspira-*
+that they cannot be discharged by Perspirations
 -----File: 026.png---------------------------------------------------------
-*tions or other natural Secretions; <i>but if you
+or other natural Secretions; <i>but if you
 purge and bleed away all the Humours in the
 Body, we are sure none that are peccant will
 remain Quod erat Demonstrandum</i>. This

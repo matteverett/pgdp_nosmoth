@@ -19,32 +19,32 @@ cd ~/dp/util
 * [X] `File → Project → Configure Page Labels`. Check for roman numerals and unnumbered pages. Go to end of book to check page numbers line up.
 
 ### Sequential Inspection of Text
-* [ ] `Preferences → Appearance → Enable Scanno Highlighting`
-* [ ] Open images in Pixea: `open -a Pixea pngs`
+* [X] `Preferences → Appearance → Enable Scanno Highlighting`
+* [X] Open images in Pixea: `open -a Pixea pngs`
 
 Check for:
 
-* Proper spacing for chapters and paragraphs
-  * Before chapter start: 4 blank lines
-  * Between chapter head and subhead: 1 blank line
-  * Between head (or subhead) and chapter body: 2 blank lines
-  * Pages should **not** start with a blank line unless starting a new chapter, section, or paragraph.
-* Proper markup of `<i>italic</i>` and `<b>bold</b>`.
-  * Watch for punctuation wrongly contained in markup, such as `<i>(ibid.</i>` or `<b>Subtopic.</b>`.
-* Proper markup of Greek and other transliterations
-* Languages other than the main book language can be noted for later
-  * In HTML they can be labeled with `<span lang="fr">..</span>`
-  * If they're in italic print, that's handled later during italic handling
-* Block material all marked in some fashion:
-  * Poetry, misc. tabular in `/* */`
-  * Block quotes in `/# #/`
-  * Where blocks cross page boundary, remove the extra markers around page marker
-  * Each overall block should have blank lines before & after
-* Join words hyphenated across page boundary
-* Figures properly in `[Illustration: caption]`
-  * Check that caption text agrees with List of Illustrations (if any)
-  * Consistent spelling, abbreviation, capitalization in captions
-  * For captionless (`[Illustration: ]`), remove colon & whitespace
+X Proper spacing for chapters and paragraphs
+  X Before chapter start: 4 blank lines
+  X Between chapter head and subhead: 1 blank line
+  X Between head (or subhead) and chapter body: 2 blank lines
+  X Pages should **not** start with a blank line unless starting a new chapter, section, or paragraph.
+X Proper markup of `<i>italic</i>` and `<b>bold</b>`.
+  X Watch for punctuation wrongly contained in markup, such as `<i>(ibid.</i>` or `<b>Subtopic.</b>`.
+X Proper markup of Greek and other transliterations
+X Languages other than the main book language can be noted for later
+  X In HTML they can be labeled with `<span lang="fr">..</span>`
+  X If they're in italic print, that's handled later during italic handling
+X Block material all marked in some fashion:
+  X Poetry, misc. tabular in `/* */`
+  X Block quotes in `/# #/`
+  X Where blocks cross page boundary, remove the extra markers around page marker
+  X Each overall block should have blank lines before & after
+X Join words hyphenated across page boundary
+X Figures properly in `[Illustration: caption]`
+  X Check that caption text agrees with List of Illustrations (if any)
+  X Consistent spelling, abbreviation, capitalization in captions
+  X For captionless (`[Illustration: ]`), remove colon & whitespace
 * Fix Footnotes, Illustrations still inside a paragraph
   * Move outside paragraph to next or prior page, as appropriate
   * Don't worry about duplicate footnote numbers/symbols for now
@@ -55,7 +55,7 @@ Check for:
 * Check that `[Blank Page]` are actually blank pages! Can also remove them.
 * Note any illustrations in a list in `README.md` for later handling
 
-* [ ] Move illustrations to `illustrations/` folder
+* [X] Move illustrations to `illustrations/` folder
 
 ### Basic Fixup
 * [ ] Use `Tools → Basic Fixup` with all options checked.
