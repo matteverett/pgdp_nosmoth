@@ -1,28 +1,44 @@
+// ppgen source for The Process of Gilding and Bronzing Picture Frames
+// ppgen ver 3.57e
 
------File: 001.png---------------------------------------------------------
+// Set title
+.dt The Process of Gilding and Bronzing Picture Frames | Project Gutenberg
 
+// Set line length
+.ll 72
 
+// Define CSS
+.de .tnbox { background-color:#E3E4FA;border:1px solid silver; padding: 0.5em; margin:2em 10% 0 10%; }
 
+// Define macros
 
-/*
-THE GENUINE
+// Page numbering
+.pn off // turn off visible page numbers
 
-TRYAL
+// Paragraph formatting, indent paragraphs by 1.0 em.
+.pi
+.nr psi 0.75em
 
-OF
+// Insert cover image for HTML version
+.if h
+.de #img_cover { width: 100%; max-width: 40em; }
+.il id=img_cover fn=cover.jpg w=100%
+.pb
+.if-
 
-Dr. <i>NOSMOTH</i>,
+.pn 1
+.bn 01.png
 
-A
+.if h
+.de #img_title { width: 100%; max-width: 32.5em; }
+.il id=img_title fn=title.png w=100%
+.pb
+.if-
 
-Physician in <sc>Pekin</sc>;
+.sp 4
 
-FOR
-
-The Murder of the MANDARIN
-<sc>Tonwin</sc>, Treasurer to the Army of
-the Emperor of <sc>China</sc>, before the great
-Council of <sc>Mandarines</sc>.
+.h1
+THE GENUINE||TRYAL||OF||Dr. <i>NOSMOTH</i>,||A||Physician in <sc>Pekin</sc>;||FOR|||The Murder of the MANDARIN|<sc>Tonwin</sc>, Treasurer to the Army of|the Emperor of <sc>China</sc>, before the great|Council of <sc>Mandarines</sc>.
 
 TAKEN
 In short Hand by the LINGUIST of the
@@ -35,9 +51,11 @@ Printed for <sc>M. Cooper</sc>, at the <i>Globe</i> in
 (Price Six-Pence.)
 */
 
------File: 002.png---------------------------------------------------------
+.pn +1
+.bn 002.png
 [**Library Stamp]
------File: 003.png---------------------------------------------------------
+.pn +1
+.bn 003.png
 
 
 
@@ -64,7 +82,8 @@ Those People are great Encouragers of
 all useful Learning; which they endeavour
 on all Occasions, to turn to the Benefit of
 the publick in general, and the Ease and
------File: 004.png---------------------------------------------------------
+.pn +1
+.bn 004.png
 Happiness of every individual Subject in
 that vast Empire.
 
@@ -93,7 +112,8 @@ happens, the Candidates are chosen out
 of the publick Schools; and the Person
 fittest for the Employment always is
 chosen, without Respect of Persons.
------File: 005.png---------------------------------------------------------
+.pn +1
+.bn 005.png
 
 In this Country, the <i>Physician</i> is a very
 considerable Office; not only in the Emperor's
@@ -120,7 +140,8 @@ Council; which is the supream Council
 of the Empire, and some what resembles
 our House of Peers, only they seem to
 be vested with much higher Powers.
------File: 006.png---------------------------------------------------------
+.pn +1
+.bn 006.png
 
 When the Person so examin'd is found
 qualified, he has a Certificate sign'd by the
@@ -149,7 +170,8 @@ dare not refuse to attend the meanest
 Person who calls for their Assistance; and
 if a Beggar, send for a Physician, before a
 <i>Mandarin</i>, he must go to the Beggar, tho'
------File: 007.png---------------------------------------------------------
+.pn +1
+.bn 007.png
 the <i>Mandarin</i> should be in never so much
 Want of him; and the good natured
 Man, not only assists his Patient with his
@@ -177,7 +199,8 @@ of the Friends of the deceas'd, and
 put to death or otherwise punish'd according
 to the Nature of their Crime,
 from whence we may judge, that it is a
------File: 008.png---------------------------------------------------------
+.pn +1
+.bn 008.png
 very dangerous thing, to be of that Profession
 in this Country; however there are but
 few Instances where the Physicians of private
@@ -205,7 +228,8 @@ his Patient's Belly; but carefully watches
 Nature; and assists her when she is
 weak to the best of his Skill; but leaves
 her to her self, when she is strong enough
------File: 009.png---------------------------------------------------------
+.pn +1
+.bn 009.png
 to bring about her Designs without his
 Aid.
 
@@ -233,7 +257,8 @@ by the <i>Mandarines</i> nearest Friends; however,
 it was wispered about, that he had
 deviated from the Rules laid down by
 the great Council of <i>Mandarines</i>; and by
------File: 010.png---------------------------------------------------------
+.pn +1
+.bn 010.png
 the Malice of the Doctor's Enemies, the
 Clamour became publick; in so much,
 that the great Council, ordered the Register
@@ -259,7 +284,8 @@ comforted him the more, that he had not
 the least Suspicion, that the high Tribunal,
 before which he was he was to be try'd,
 would mix any Partiality in their Sentence.
------File: 011.png---------------------------------------------------------
+.pn +1
+.bn 011.png
 I have taken Care to use as few <i>Chinese</i>
 Terms of Law as possible; and have chose
 such <i>English</i> Words, as seem'd to come
@@ -285,7 +311,8 @@ the great Council of Mandarins
 assembled in a great Hall, in the second
 Court of the King's Palace, the President
 was seated on a Throne, under the Canopy
------File: 012.png---------------------------------------------------------
+.pn +1
+.bn 012.png
 of State; the Ensigns of his high
 Office being carried before him, and attended
 by twenty four Officers with
@@ -312,7 +339,8 @@ in Words to this Effect.
 You <i>Nosmoth</i>, Doctor of the Divine
 Sience of Physick, stand indicted before
 this Sovereign Court, at the Suit of our
------File: 013.png---------------------------------------------------------
+.pn +1
+.bn 013.png
 Sovereign Lord the most High, mighty,
 and Puisant Emperor, <i>Abdaer</i> Emperor
 to the World, Lord of Vast Territories,
@@ -339,7 +367,8 @@ right and left Arm, and didst take from
 him, a large Quantity of his Blood, to
 the amount of fifty seven Ounces; and
 likewise didst prevail with the said <i>Mandarin</i>,
------File: 014.png---------------------------------------------------------
+.pn +1
+.bn 014.png
 by false unreasonable, and scandalous
 Suggestions, to swallow certain Quantities
 unknown, of poisonous Drugs, for
@@ -364,7 +393,8 @@ away the said <i>Mandarin</i>; by which Means
 our great Emperor, has lost a faithful
 Slave, the Empire an useful Member,
 and the distressed a great Protector; this
------File: 015.png---------------------------------------------------------
+.pn +1
+.bn 015.png
 is your Accusation, are you Guilty or not
 Guilty.
 
@@ -397,7 +427,8 @@ are already but too much at the Mercy of
 the designing and malicious: We have an
 Affidavit ready to read to your Lordships,
 sign'd by the nearest agnat of the deceas'd
------File: 016.png---------------------------------------------------------
+.pn +1
+.bn 016.png
 Lord; wherein they disclaim the Prosecution,
 and express their Satisfaction;
 both of the Skill and Integrity of our
@@ -426,7 +457,8 @@ did not think fit to try the Cause upon
 that footing, but to come at the Bottom
 of the whole Affair, order'd the Emperor's
 <i>Seniscal</i> to prosecute in this Manner.
------File: 017.png---------------------------------------------------------
+.pn +1
+.bn 017.png
 
 Thus the Tryal was at first brought
 on by the Doctor himself; which he
@@ -454,7 +486,8 @@ of this Empire.
 
 The Court, after a short Debate, over-ruled
 the Objection to the Indictment;
------File: 018.png---------------------------------------------------------
+.pn +1
+.bn 018.png
 and ordered the Prisoner to plead; he
 thereupon pleaded not guilty; and submitted
 to the Judgment of the Court.
@@ -483,7 +516,8 @@ according to his Duty, fairly stated the
 Symptoms of the Disease under which his
 Right Honourable Patient laboured; and
 that he has given a just Account of the
------File: 019.png---------------------------------------------------------
+.pn +1
+.bn 019.png
 Medicines he ordered to be administred in
 order to effectuate a Cure; and from this
 his own State of the Facts, we hope to
@@ -510,7 +544,8 @@ practice the divine Science of Phisick,
 we dare not attribute his Misconduct to
 Ignorance; Charity forbids us to suppose
 it Malice; and good Manners hinders
------File: 020.png---------------------------------------------------------
+.pn +1
+.bn 020.png
 us to use the Word Obstinacy; but to
 whatever Motive we may ascribe it the
 Facts are incontestable, and the Effects have
@@ -537,7 +572,8 @@ we look upon as an Attempt of Nature,
 to get rid of the malignant feverish Matter,
 which oppress'd her, by Means of
 Perspiration; and is by all Physicians,
------File: 021.png---------------------------------------------------------
+.pn +1
+.bn 021.png
 looked upon as the most common as well
 as the most natural Crisis of all feverish
 Disorders; it was my Lord the Doctors
@@ -564,7 +600,8 @@ Bowels, which Jallop certainly does;
 purging naturally weakens the strongest
 Constitution, without the Assistance of
 an acute Distemper; but how weak must
------File: 022.png---------------------------------------------------------
+.pn +1
+.bn 022.png
 that Patient be, who suffer'd the Weight
 of both, and another Evacuation as destructive
 of natural Strength as the other,
@@ -591,7 +628,8 @@ Ulcers in the Throat naturally followed;
 as Nature had not sufficient Strength left,
 to stimulate the Blood, and keep it in its
 proper Motion; besides, the Regimen of
------File: 023.png---------------------------------------------------------
+.pn +1
+.bn 023.png
 Dyet prescribed by the Doctor, was quite
 preposterous; Milk is naturally hot, and
 as it is of the Nature of prepared Chyle,
@@ -620,7 +658,8 @@ august Court, that the whole Prosecution
 is founded upon Malice, and has no other
 Foundation; but the Envy of some of the
 Doctors Brethren, who can not with any
------File: 024.png---------------------------------------------------------
+.pn +1
+.bn 024.png
 Patience, see any Reformation in their old
 Practice; they are Men so wedded to old
 antiquated Opinions, and superanuated Customs,
@@ -647,7 +686,8 @@ of the present Age, the difference in Dyet,
 Exercise and Diversions of the present Generation,
 have produced a new Catalogue
 of Diseases, unknown to our Ancestors;
------File: 025.png---------------------------------------------------------
+.pn +1
+.bn 025.png
 and for which our antient Writers have
 not so much as dreamed of a Cure now;
 when the old Women of the Faculty meet
@@ -674,7 +714,8 @@ Mathematicks; all Diseases flow from peccant
 Humours, being mix'd with the Mass
 of Blood, which are so closely united to it,
 that they cannot be discharged by Perspirations
------File: 026.png---------------------------------------------------------
+.pn +1
+.bn 026.png
 or other natural Secretions; <i>but if you
 purge and bleed away all the Humours in the
 Body, we are sure none that are peccant will
@@ -701,7 +742,8 @@ some Days sooner than he did; the Patient
 might have died its true, but that
 would not have been his Fault if he had
 used the Means to disburthen him of
------File: 027.png---------------------------------------------------------
+.pn +1
+.bn 027.png
 his Blood, where the Malady lay; therefore
 we hope the Court will acquit the
 Prisoner.

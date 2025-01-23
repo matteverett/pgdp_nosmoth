@@ -52,7 +52,7 @@ X Fix Footnotes, Illustrations still inside a paragraph
 X Make notes of things that will need attention in the HTML:
   X Author cross-references like "`(p. 150)`" and "`see page 222`" that should become links.
   X How the editor laid out special sections such as tables and sidebars.
-* Check that `[Blank Page]` are actually blank pages! Can also remove them.
+X Check that `[Blank Page]` are actually blank pages! Can also remove them.
 X Note any illustrations in a list in `README.md` for later handling
 
 * [X] Move illustrations to `illustrations/` folder
@@ -74,7 +74,7 @@ X Note any illustrations in a list in `README.md` for later handling
      X Close-up where broken at page boundaries, if not already done
      X Apply specific [indent value](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Table_Indent) if desired
      X Make sure poetry line numbers are at least two spaces to the right of the line.
-* [ ] Use the `Search` menu to step through all `/#..#/` blocks.
+* [X] Use the `Search` menu to step through all `/#..#/` blocks.
      X Regex: `^(/#|#/)`
      X Check for a blank line before and after markup
      X Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
@@ -90,8 +90,8 @@ X Note any illustrations in a list in `README.md` for later handling
 
 ### Format Front Matter
 * [ ] Format the title page, preserving as much of the original material as possible. Protect in `/X...X/` (no rewrap, no indent) or `/F...F/` (the same, except that it will be centered in the html version).
-* [ ] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Protect TOC with `/X...X/`. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
-* [ ] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions. Protect with `/X...X/`.
+* [X] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Protect TOC with `/X...X/`. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
+* [X] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions. Protect with `/X...X/`.
 
 ### Edit Transliterations
 * [ ] Use `Tools → Character Tools` to search for transliterations. Check the content of each transliteration. For Greek, there's a "Greek Transliteration Tool", but entering Unicode Greek is preferable.

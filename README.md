@@ -14,9 +14,9 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] Punctuation errors
 * [ ] Library stamp is a blank page?
-* [ ] All -* words w/o any other instances
+* [ ] Title page != cover?
+* [ ] For title page, keep color or convert to black/white?
 
 ### Project manager notes ###
 

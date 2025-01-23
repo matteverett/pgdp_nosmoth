@@ -1,6 +1,9 @@
 guiguts.log
 *-utf8.txt
 *.html
+*.bin
+*.txt.json
+/gimp/
 /zipdir/
 /ebooks/
 /.vscode/
