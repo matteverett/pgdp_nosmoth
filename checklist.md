@@ -49,44 +49,44 @@ X Fix Footnotes, Illustrations still inside a paragraph
   X Move outside paragraph to next or prior page, as appropriate
   X Don't worry about duplicate footnote numbers/symbols for now
   X Sidenotes are handled later
-* Make notes of things that will need attention in the HTML:
-  * Author cross-references like "`(p. 150)`" and "`see page 222`" that should become links.
-  * How the editor laid out special sections such as tables and sidebars.
+X Make notes of things that will need attention in the HTML:
+  X Author cross-references like "`(p. 150)`" and "`see page 222`" that should become links.
+  X How the editor laid out special sections such as tables and sidebars.
 * Check that `[Blank Page]` are actually blank pages! Can also remove them.
-* Note any illustrations in a list in `README.md` for later handling
+X Note any illustrations in a list in `README.md` for later handling
 
 * [X] Move illustrations to `illustrations/` folder
 
 ### Basic Fixup
-* [ ] Use `Tools → Basic Fixup` with all options checked.
-  * Use it judiciously. E.g., you may want to turn off "Fix up spaces around hyphens" and "Format ellipses correctly."
-* [ ] `Tools → Remove End-of-line Spaces`
-* [ ] Remove any remaining `[Blank Page]` lines
+* [X] Use `Tools → Basic Fixup` with all options checked.
+     X Use it judiciously. E.g., you may want to turn off "Fix up spaces around hyphens" and "Format ellipses correctly."
+* [X] `Tools → Remove End-of-line Spaces`
+* [X] Remove any remaining `[Blank Page]` lines
 
 ### Errata
-* [ ] If original book had errata, apply it and note in TN
+* [X] If original book had errata, apply it and note in TN
 
 ### Fix Block Markups and Proofer Notes
-* [ ] Use the `Search` menu to step through all `/* */` blocks.
-  * Regex: `^(/\*|\*/)`
-  * Check for a blank line before and after markup
-  * Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
-  * Close-up where broken at page boundaries, if not already done
-  * Apply specific [indent value](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Table_Indent) if desired
-  * Make sure poetry line numbers are at least two spaces to the right of the line.
+* [X] Use the `Search` menu to step through all `/* */` blocks.
+     X Regex: `^(/\*|\*/)`
+     X Check for a blank line before and after markup
+     X Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
+     X Close-up where broken at page boundaries, if not already done
+     X Apply specific [indent value](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Table_Indent) if desired
+     X Make sure poetry line numbers are at least two spaces to the right of the line.
 * [ ] Use the `Search` menu to step through all `/#..#/` blocks.
-  * Regex: `^(/#|#/)`
-  * Check for a blank line before and after markup
-  * Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
-  * Close-up where broken at page boundaries, if not already done
-  * Check consistent indentation of block text
-  * Apply specific [margin values](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Block_Quote_Indent_and_Margins) if desired
-* [ ] `Search → Find Next Proofer Comment`. Resolve all proofer's notes.
-* [ ] `Search → Find Orphaned DP Markup`.
-* [ ] Search `(</i>)([!?;:])` & replace `$2$1` to find punct that should move inside quotes
-* [ ] Use `Tools → Check Orphaned Brackets` to check each type of bracket and markup.
-  * Do not omit the lowly parenthesis, often mis-scanned as curly-brace.
-* [ ] Look for malformed thought-breaks (5 stars). Regex: `\*\s*\*\s*\*\s*\*\s*\*`
+     X Regex: `^(/#|#/)`
+     X Check for a blank line before and after markup
+     X Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
+     X Close-up where broken at page boundaries, if not already done
+     X Check consistent indentation of block text
+     X Apply specific [margin values](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Block_Quote_Indent_and_Margins) if desired
+* [X] `Search → Find Next Proofer Comment`. Resolve all proofer's notes.
+* [X] `Search → Find Orphaned DP Markup`.
+* [X] Search `(</i>)([!?;:])` & replace `$2$1` to find punct that should move inside quotes
+* [X] Use `Tools → Check Orphaned Brackets` to check each type of bracket and markup.
+      X Do not omit the lowly parenthesis, often mis-scanned as curly-brace.
+* [X] Look for malformed thought-breaks (5 stars). Regex: `\*\s*\*\s*\*\s*\*\s*\*`
 
 ### Format Front Matter
 * [ ] Format the title page, preserving as much of the original material as possible. Protect in `/X...X/` (no rewrap, no indent) or `/F...F/` (the same, except that it will be centered in the html version).

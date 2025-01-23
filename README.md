@@ -37,7 +37,18 @@ Goettingen has this as "[2],5-29,[1]p ; 8°", Yale have it as "1 p. l., 5-29 p. 
 
 ### Illustrations ###
 
+* [ ] i003.jpg
+* [ ] i011.jpg
+* [ ] iTitle.jpg
+
 ### Proofer's notes ###
+
+* Officinals[**typo?: "Officials"]: Kept text as is -- officinals was a common spelling at the time of publication (https://books.google.com/ngrams/graph?content=officinal%2Cofficial&year_start=1740&year_end=1760&corpus=en&smoothing=3&case_insensitive=false)
+* try'd[**, I think]: Agree there is a ","
+* <i>Council for the Emperor,</i>[**P3 .?|F1 formatted like period]: Replaced , with . to make consistent with formatting throughout the rest of the book
+* over-*ruled: over-ruled per Google Ngram (https://books.google.com/ngrams/graph?content=overruled%2C+over+-+ruled&year_start=1740&year_end=1760&corpus=en&smoothing=3)
+* follows,[**.?]: Replaced , with . to make consistent with formatting throughout the rest of the book
+* Gen-*man: Genman per Google Ngram (https://books.google.com/ngrams/graph?content=Genman%2CGen+-+man&year_start=1740&year_end=1760&corpus=en&smoothing=3)
 
 ### Joined hyphenated words ###
 

@@ -34,6 +34,7 @@ Printed for <sc>M. Cooper</sc>, at the <i>Globe</i> in
 
 (Price Six-Pence.)
 */
+
 -----File: 002.png---------------------------------------------------------
 [**Library Stamp]
 -----File: 003.png---------------------------------------------------------
@@ -192,7 +193,7 @@ whose Interest the Doctor has Occasion to
 consider in the <i>Recipe</i>; he prepares the
 Medicine himself, and is too much interested
 in the Success, to give any more
-than he thinks necessary; the Officinals[**typo?: "Officials"] in
+than he thinks necessary; the Officinals in
 their Dispensary, are so few, that you
 may write them all on a quarter of a
 Sheet of Paper; and he never makes a
@@ -256,7 +257,7 @@ not at all dismay'd; but hugg'd himself
 in reflecting on his own Innocence, which
 comforted him the more, that he had not
 the least Suspicion, that the high Tribunal,
-before which he was he was to be try'd[**, I think]
+before which he was he was to be try'd,
 would mix any Partiality in their Sentence.
 -----File: 011.png---------------------------------------------------------
 I have taken Care to use as few <i>Chinese</i>
@@ -404,7 +405,7 @@ Client; therefore we hope this august
 Court will quash this Indictment.
 
 
-<i>Council for the Emperor,</i>[**P3 .?|F1 formatted like period]
+<i>Council for the Emperor.</i>
 
 My Lord, We are not a little surpriz'd
 to find the Council for the Prisoner,
@@ -451,7 +452,7 @@ Unless the Physicians claim a Priviledge
 not common to the rest of the Subjects
 of this Empire.
 
-The Court, after a short Debate, over-*ruled
+The Court, after a short Debate, over-ruled
 the Objection to the Indictment;
 -----File: 018.png---------------------------------------------------------
 and ordered the Prisoner to plead; he
@@ -466,14 +467,14 @@ Formalites as before gave Orders for proceeding
 on the Tryal, which was accordingly
 done by the Council for the Emperor,
 who rising up opened the Case as
-follows,[**.?]
+follows.
 
 
 <i>Council for the Emperor.</i>
 
 My Lord, the Prosecutors for his Imperial
 Majesty, are so far from taking any
-rigorous Advantage of the learned Gen-*man
+rigorous Advantage of the learned Genman
 at the Bar, that they are resolved
 to try the Cause upon his own State of
 the Case now in the <i>Mandarin</i> Secretary's
