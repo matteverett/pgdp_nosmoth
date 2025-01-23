@@ -363,12 +363,14 @@ away the said <i>Mandarin</i>; by which Means
 our great Emperor, has lost a faithful
 Slave, the Empire an useful Member,
 and the distressed a great Protector; this
-
-[Footnote A: The God of Physick amongst the <i>Chinese</i>.]
 -----File: 015.png---------------------------------------------------------
 is your Accusation, are you Guilty or not
 Guilty.
 
+.fm
+.fn A
+The God of Physick amongst the <i>Chinese</i>.
+.fn-
 
 <i>Council for the Prisoner.</i>
 

@@ -1,4 +1,6 @@
 guiguts.log
+*-utf8.txt
+*.html
 /zipdir/
 /ebooks/
 /.vscode/

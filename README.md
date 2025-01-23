@@ -14,7 +14,9 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] Example item
+* [ ] Punctuation errors
+* [ ] Library stamp is a blank page?
+* [ ] All -* words w/o any other instances
 
 ### Project manager notes ###
 

@@ -45,10 +45,10 @@ X Figures properly in `[Illustration: caption]`
   X Check that caption text agrees with List of Illustrations (if any)
   X Consistent spelling, abbreviation, capitalization in captions
   X For captionless (`[Illustration: ]`), remove colon & whitespace
-* Fix Footnotes, Illustrations still inside a paragraph
-  * Move outside paragraph to next or prior page, as appropriate
-  * Don't worry about duplicate footnote numbers/symbols for now
-  * Sidenotes are handled later
+X Fix Footnotes, Illustrations still inside a paragraph
+  X Move outside paragraph to next or prior page, as appropriate
+  X Don't worry about duplicate footnote numbers/symbols for now
+  X Sidenotes are handled later
 * Make notes of things that will need attention in the HTML:
   * Author cross-references like "`(p. 150)`" and "`see page 222`" that should become links.
   * How the editor laid out special sections such as tables and sidebars.
