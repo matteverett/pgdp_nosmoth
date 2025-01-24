@@ -37,38 +37,66 @@
 
 .sp 4
 
-.h1
-THE GENUINE||TRYAL||OF||Dr. <i>NOSMOTH</i>,||A||Physician in <sc>Pekin</sc>;||FOR|||The Murder of the MANDARIN|<sc>Tonwin</sc>, Treasurer to the Army of|the Emperor of <sc>China</sc>, before the great|Council of <sc>Mandarines</sc>.
+.h1 title='The Genuine Tryal of Dr. Nosmoth, a Physican in Pekin, for the Murder of the Mandarin Tonwin, Treasurer to the Army of the Emperor of China, Before the Great Council of Mandarines'
 
-TAKEN
-In short Hand by the LINGUIST of the
+.ce
+<fs=125%>THE GENUINE</fs>
+.sp 1
+.ce
+<fs=250%>TRYAL</fs>
+.sp 1
+.ce
+<fs=90%>OF</fs>
+.sp 1
+.ce
+<fs=190%>Dr. <i>NOSMOTH</i>,</fs>
+.sp 1
+.ce
+<fs=90%>A</fs>
+.sp 1
+.ce
+<fs=140%>Physician in <sc>Pekin</sc>;</fs>
+.sp 1
+
+.ce 5
+<fs=90%>FOR</fs>
+<fs=110%>The Murder of the MANDARIN</fs>
+<sc>Tonwin</sc>, Treasurer to the Army of
+the Emperor of <sc>China</sc>, before the great
+Council of <sc>Mandarines</sc>.
+
+.hr 25%
+
+.ce 3
+<fs=90%>TAKEN</fs>
+In short Hand by the <g>LINGUIST</g> of the
 <i>English</i> Factory.
 
-<i>LONDON</i>:
+.hr 25%
+
+.ce 3
+<g><i>LONDON</i></g>:
 Printed for <sc>M. Cooper</sc>, at the <i>Globe</i> in
 <i>Pater-noster-Row</i>. 1746.
 
+.ce
 (Price Six-Pence.)
-*/
 
-.pn +1
-.bn 002.png
-[**Library Stamp]
-.pn +1
+.pb
+.pn +4
 .bn 003.png
 
-
-
+.sp 4
 
 [Illustration]
 
+.sp 4
 
-
-
+.ce 2
 THE
-
 INTRODUCTION.
 
+.sp 2
 
 Before we enter upon
 this remarkable Tryal, it will
@@ -299,13 +327,13 @@ Tryal more Intelligible.
 
 [Illustration]
 
+.sp 4
+.h2
+<fs=90%>THE</fs>||<fs=160%><g>TRYAL</g>, <g>&c</g>.</fs>
 
-
-
-THE
-TRYAL, &c.
-
-
+.sp 2
+.nr dcs 200%
+.dc 0 1
 On the Day appointed for the Tryal,
 the great Council of Mandarins
 assembled in a great Hall, in the second
@@ -403,6 +431,7 @@ Guilty.
 The God of Physick amongst the <i>Chinese</i>.
 .fn-
 
+.sp 2
 <i>Council for the Prisoner.</i>
 
 My Lord President, before we, that
@@ -435,7 +464,7 @@ both of the Skill and Integrity of our
 Client; therefore we hope this august
 Court will quash this Indictment.
 
-
+.sp 2
 <i>Council for the Emperor.</i>
 
 My Lord, We are not a little surpriz'd
@@ -502,7 +531,7 @@ done by the Council for the Emperor,
 who rising up opened the Case as
 follows.
 
-
+.sp 2
 <i>Council for the Emperor.</i>
 
 My Lord, the Prosecutors for his Imperial
@@ -647,7 +676,7 @@ in order to deter others from following
 their own Conceits, in Cases where the
 Life of a Subject is concerned.
 
-
+.sp 2
 <i>Council for the Prisoner.</i>
 
 My Lord, the Charge against our
@@ -756,5 +785,5 @@ called back and acquainted with his Sentence,
 which we must beg of the Publick
 to excuse us from publishing.
 
-
+.sp 2
 <i>FINIS.</i>

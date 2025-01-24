@@ -14,9 +14,10 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] Library stamp is a blank page?
+* [X] Library stamp is a blank page? -- Yes
 * [ ] Title page != cover?
 * [ ] For title page, keep color or convert to black/white?
+* [ ] Drop cap - letter or illustration?
 
 ### Project manager notes ###
 
