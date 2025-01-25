@@ -61,12 +61,22 @@
 .ce
 <g>FOR</g>
 
-.ta l:20 w=none
+.if h
+.ta l:1 w=none
 <al=l><fs=110%>The Murder of the MANDARIN</fs>
 <al=l><div style='text-indent:1em;'><sc>Tonwin</sc>, Treasurer to the Army of</div>
 <al=l><div style='text-indent:1em;'>the Emperor of <sc>China</sc>, before the great</div>
 <al=l><div style='text-indent:1em;'>Council of <sc>Mandarines</sc>.</div>
 .ta-
+.if-
+.if ta
+.ta l:40
+<al=l>The Murder of the MANDARIN
+<al=l>\_\_<sc>Tonwin</sc>, Treasurer to the Army of
+<al=l>\_\_the Emperor of <sc>China</sc>, before the great
+<al=l>\_\_Council of <sc>Mandarines</sc>.
+.ta-
+.if-
 
 .hr 25%
 
@@ -519,7 +529,7 @@ Unless the Physicians claim a Priviledge
 not common to the rest of the Subjects
 of this Empire.
 
-The Court, after a short Debate, over-ruled
+The Court, after a short Debate, overruled
 the Objection to the Indictment;
 .pn +1
 .bn 018.png
@@ -543,7 +553,7 @@ follows.
 
 My Lord, the Prosecutors for his Imperial
 Majesty, are so far from taking any
-rigorous Advantage of the learned Genman
+rigorous Advantage of the learned Gen-man
 at the Bar, that they are resolved
 to try the Cause upon his own State of
 the Case now in the <i>Mandarin</i> Secretary's
@@ -797,3 +807,20 @@ to excuse us from publishing.
 .h3
 <g><i>FINIS.</i></g>
 .hr 25%
+
+.pb
+
+.dv class=tnbox
+.ul
+.it Transcriber’s Notes:
+.ul indent=1
+.it Missing or obscured punctuation was silently corrected.
+.it Typographical errors were silently corrected.
+.it Inconsistent spelling and hyphenation were made consistent only when a\
+predominant form was found in this book.
+.if t
+.it Text in italics is enclosed by underscores (<i>italics</i>).
+.if-
+.ul-
+.ul-
+.dv-
