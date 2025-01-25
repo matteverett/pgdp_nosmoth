@@ -15,9 +15,14 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Things to revisit ###
 
 * [X] Library stamp is a blank page? -- Yes
-* [ ] Title page != cover?
-* [ ] For title page, keep color or convert to black/white?
-* [ ] Drop cap - letter or illustration?
+* [X] Title page != cover? -- Asking for help on forum
+* [X] For title page, keep color or convert to black/white? -- Asking for help on forum
+* [X] Drop cap - letter or illustration? -- First drop cap is illustration, second is letter
+* [X] H----r: Four hyphens?
+* [ ] Title page for txt file -- nearly unreadable
+* [ ] misspelled.rc missing?
+* [ ] No ligature if not in original?
+* [ ] Capture groups in search/replace not working?
 
 ### Project manager notes ###
 
@@ -47,9 +52,9 @@ Goettingen has this as "[2],5-29,[1]p ; 8°", Yale have it as "1 p. l., 5-29 p. 
 * Officinals[**typo?: "Officials"]: Kept text as is -- officinals was a common spelling at the time of publication (https://books.google.com/ngrams/graph?content=officinal%2Cofficial&year_start=1740&year_end=1760&corpus=en&smoothing=3&case_insensitive=false)
 * try'd[**, I think]: Agree there is a ","
 * <i>Council for the Emperor,</i>[**P3 .?|F1 formatted like period]: Replaced , with . to make consistent with formatting throughout the rest of the book
-* over-*ruled: over-ruled per Google Ngram (https://books.google.com/ngrams/graph?content=overruled%2C+over+-+ruled&year_start=1740&year_end=1760&corpus=en&smoothing=3)
+* over-*ruled: overruled per Google Ngram (https://books.google.com/ngrams/graph?content=overruled%2C%5Bover+-+ruled%5D&year_start=1740&year_end=1760&corpus=en&smoothing=3)
 * follows,[**.?]: Replaced , with . to make consistent with formatting throughout the rest of the book
-* Gen-*man: Genman per Google Ngram (https://books.google.com/ngrams/graph?content=Genman%2CGen+-+man&year_start=1740&year_end=1760&corpus=en&smoothing=3)
+* Gen-*man: Genman per Google Ngram (https://books.google.com/ngrams/graph?content=Genman%2C%5BGen+-+man%5D&year_start=1740&year_end=1760&corpus=en&smoothing=3)
 
 ### Joined hyphenated words ###
 

@@ -27,7 +27,7 @@
 .if-
 
 .pn 1
-.bn 01.png
+.bn 001.png
 
 .if h
 .de #img_title { width: 100%; max-width: 32.5em; }
@@ -37,7 +37,7 @@
 
 .sp 4
 
-.h1 title='The Genuine Tryal of Dr. Nosmoth, a Physican in Pekin, for the Murder of the Mandarin Tonwin, Treasurer to the Army of the Emperor of China, Before the Great Council of Mandarines'
+.h1 title='The Genuine Tryal of Dr. Nosmoth, a Physician in Pekin, for the Murder of the Mandarin Tonwin, Treasurer to the Army of the Emperor of China, Before the Great Council of Mandarines'
 
 .ce
 <fs=165%>THE GENUINE</fs>
@@ -136,7 +136,7 @@ of the Children are carefully studied and
 improved in those Arts to which Nature
 seems to have given them the strongest Bent
 without consulting the Whim or Pride of
-the Parents; by this means, it's no rare
+the Parents; by this means, it’s no rare
 thing to see the Son of a Nobleman drudging
 at the meanest Handicraft; and that of a
 Peasant shining in the highest Orb of Life.
@@ -157,12 +157,12 @@ chosen, without Respect of Persons.
 .bn 005.png
 
 In this Country, the <i>Physician</i> is a very
-considerable Office; not only in the Emperor's
+considerable Office; not only in the Emperor’s
 Court, but in that of all the
 <i>Mandarines</i> or great Governors and
 Officers of State.
 
-Before any Man is preferr'd to the
+Before any Man is preferr’d to the
 Office of Physician, either to the Sovereign
 or to any of his great Men, he undergoes
 a strict and impartial Examination,
@@ -184,8 +184,8 @@ be vested with much higher Powers.
 .pn +1
 .bn 006.png
 
-When the Person so examin'd is found
-qualified, he has a Certificate sign'd by the
+When the Person so examin’d is found
+qualified, he has a Certificate sign’d by the
 President of the Court, which empowers
 him to practice, as a Doctor under the Regulations
 which are prescribed by it; from
@@ -210,7 +210,7 @@ Employment in their Profession: They
 dare not refuse to attend the meanest
 Person who calls for their Assistance; and
 if a Beggar, send for a Physician, before a
-<i>Mandarin</i>, he must go to the Beggar, tho'
+<i>Mandarin</i>, he must go to the Beggar, tho’
 .pn +1
 .bn 007.png
 the <i>Mandarin</i> should be in never so much
@@ -232,12 +232,12 @@ or has gone out of the ordinary, Course
 of Practice, if any Accident happens to
 the Patient he is surely punished.
 
-The Emperor's Physicians are always
+The Emperor’s Physicians are always
 put to Death when he dies; and
-those of other Persons, are try'd by
+those of other Persons, are try’d by
 the Court of Mandarines, upon Application
-of the Friends of the deceas'd, and
-put to death or otherwise punish'd according
+of the Friends of the deceas’d, and
+put to death or otherwise punish’d according
 to the Nature of their Crime,
 from whence we may judge, that it is a
 .pn +1
@@ -252,7 +252,7 @@ Country, obtain a <i>Diploma</i>, none but
 Men of Merit are of the Faculty: These
 are obliged to make Conscience of their
 Business; and dare not venture to try
-Experiments; there are no Apothecary's
+Experiments; there are no Apothecary’s
 whose Interest the Doctor has Occasion to
 consider in the <i>Recipe</i>; he prepares the
 Medicine himself, and is too much interested
@@ -265,7 +265,7 @@ Bill for his Druggs? but is paid so much
 a Visit, whether he gives any Physick or
 not. Thus he is not under the least Temptation
 to make an Apothecarys Shop of
-his Patient's Belly; but carefully watches
+his Patient’s Belly; but carefully watches
 Nature; and assists her when she is
 weak to the best of his Skill; but leaves
 her to her self, when she is strong enough
@@ -293,14 +293,14 @@ wherein he had not given them
 Proof of his Humanity and Bounty: The
 Death of this great Man, so universally
 esteemed, was somewhat sudden; and his
-Physician was blamed by some, tho' not
+Physician was blamed by some, tho’ not
 by the <i>Mandarines</i> nearest Friends; however,
 it was wispered about, that he had
 deviated from the Rules laid down by
 the great Council of <i>Mandarines</i>; and by
 .pn +1
 .bn 010.png
-the Malice of the Doctor's Enemies, the
+the Malice of the Doctor’s Enemies, the
 Clamour became publick; in so much,
 that the great Council, ordered the Register
 of the Case to be inspected; and
@@ -318,18 +318,18 @@ Machinations of his Enemies: Those
 of his own Profession, for what Reason I
 am not able to learn, were his most open
 Enemies; and thought by all to be his secret
-Accusers; however, the Doctor seem'd
-not at all dismay'd; but hugg'd himself
+Accusers; however, the Doctor seem’d
+not at all dismay’d; but hugg’d himself
 in reflecting on his own Innocence, which
 comforted him the more, that he had not
 the least Suspicion, that the high Tribunal,
-before which he was he was to be try'd,
+before which he was he was to be try’d,
 would mix any Partiality in their Sentence.
 .pn +1
 .bn 011.png
 I have taken Care to use as few <i>Chinese</i>
 Terms of Law as possible; and have chose
-such <i>English</i> Words, as seem'd to come
+such <i>English</i> Words, as seem’d to come
 nearest to the Meaning of the Original;
 and in order to make the whole more
 comprehensible to an <i>English</i> Reader, I
@@ -351,7 +351,7 @@ Tryal more Intelligible.
 On the Day appointed for the Tryal,
 the great Council of Mandarins
 assembled in a great Hall, in the second
-Court of the King's Palace, the President
+Court of the King’s Palace, the President
 was seated on a Throne, under the Canopy
 .pn +1
 .bn 012.png
@@ -417,8 +417,8 @@ unknown, of poisonous Drugs, for
 sixteen or seventeen Days together; and likewise
 caused during the said Space of Time,
 to be introduced into the <i>Anus</i>, (Anglice
-A----se,) of the said Mandarin, a certain
-Machine, call'd a Clister-Pipe,
+A——se,) of the said Mandarin, a certain
+Machine, call’d a Clister-Pipe,
 through which was squeezed a certain further
 Quantity of poisonous Drugs, into
 his Bowels; and contrary to the Duty of
@@ -439,11 +439,6 @@ and the distressed a great Protector; this
 .bn 015.png
 is your Accusation, are you Guilty or not
 Guilty.
-
-.fm
-.fn A
-The God of Physick amongst the <i>Chinese</i>.
-.fn-
 
 .sp 2
 .h3
@@ -470,7 +465,7 @@ Profession, to uncommon Hardships; who
 are already but too much at the Mercy of
 the designing and malicious: We have an
 Affidavit ready to read to your Lordships,
-sign'd by the nearest agnat of the deceas'd
+sign’d by the nearest agnat of the deceas’d
 .pn +1
 .bn 016.png
 Lord; wherein they disclaim the Prosecution,
@@ -483,7 +478,7 @@ Court will quash this Indictment.
 .h3
 <i>Council for the Emperor.</i>
 
-My Lord, We are not a little surpriz'd
+My Lord, We are not a little surpriz’d
 to find the Council for the Prisoner,
 make such an extraordinary Motion;
 when they must certainly know,
@@ -495,27 +490,27 @@ this Particular; he was offended at their
 pretending to find Fault with his Practice;
 which he asserted he could justify;
 This produced a Dispute amongst them,
-in which he thought he was scandaliz'd,
+in which he thought he was scandaliz’d,
 and brought his Complaint before this
 Court, for the Scandal: Your Lordships
 did not think fit to try the Cause upon
 that footing, but to come at the Bottom
-of the whole Affair, order'd the Emperor's
+of the whole Affair, order’d the Emperor’s
 <i>Seniscal</i> to prosecute in this Manner.
 .pn +1
 .bn 017.png
 
 Thus the Tryal was at first brought
 on by the Doctor himself; which he
-now declines, why? because it's not in
+now declines, why? because it’s not in
 the Shape he projected, which shews a
 more than ordinary Kind of Obstinacy
 in his Temper, an Ingredient very unfit
 to compose a Physician.
 
 But my learned Brother is likewise
-mistaken in Point of Law; Tho' we have
-not the Precedents he mentions; yet it's
+mistaken in Point of Law; Tho’ we have
+not the Precedents he mentions; yet it’s
 founded on the Nature of Things: The
 august Emperor has an Interest in the
 Life of every Subject; and is in Reality
@@ -523,7 +518,7 @@ in the Quality of Father to each of
 them; and often more a Parent than
 their own natural Fathers: Does he not
 in all other criminal Cases, prosecute
-without the Consent of the Party damag'd;
+without the Consent of the Party damag’d;
 why may he not then in this?
 Unless the Physicians claim a Priviledge
 not common to the rest of the Subjects
@@ -553,10 +548,10 @@ follows.
 
 My Lord, the Prosecutors for his Imperial
 Majesty, are so far from taking any
-rigorous Advantage of the learned Gen-man
+rigorous Advantage of the learned Genman
 at the Bar, that they are resolved
 to try the Cause upon his own State of
-the Case now in the <i>Mandarin</i> Secretary's
+the Case now in the <i>Mandarin</i> Secretary’s
 Hand: They are to suppose, that he has
 according to his Duty, fairly stated the
 Symptoms of the Disease under which his
@@ -570,11 +565,11 @@ his own State of the Facts, we hope to
 convince this august Court, that the Doctor,
 has followed a Practice, quite different
 from those prescribed by your
-Lordships in similar Cases; apply'd Medicines
-improper for the Patient's Distemper;
+Lordships in similar Cases; apply’d Medicines
+improper for the Patient’s Distemper;
 and in every Circumstance, acted,
 as if he rather intened, to increase the
-Malady, than save his Patient's Life; we
+Malady, than save his Patient’s Life; we
 shall make it appear, that the Doctor instead
 of assisting Nature, has endeavoured
 to convert the Order of Things, and obstructed
@@ -582,7 +577,7 @@ her as much as lay in his Power;
 and we shall likewise make it appear beyond
 Conjecture, that the Method used
 with the Patient, during the Process of
-his Illness; hasten'd his End, much more
+his Illness; hasten’d his End, much more
 than the Fever it self: Out of Respect to
 the <i>Diploma</i> issuing out of the Court,
 which entitled the learned Gentleman to
@@ -616,7 +611,7 @@ it was sometimes according to the Doctors
 Report, to Excess. This My Lord,
 we look upon as an Attempt of Nature,
 to get rid of the malignant feverish Matter,
-which oppress'd her, by Means of
+which oppress’d her, by Means of
 Perspiration; and is by all Physicians,
 .pn +1
 .bn 021.png
@@ -631,7 +626,7 @@ he followed a quite different Course; he
 willfully obstructed the Grand Physician;
 instead of encouraging the Sweat, he made
 the Patient get out of Bed to avoid it;
-seem'd obstinately bent to obtain a Cure
+seem’d obstinately bent to obtain a Cure
 by nothing but purging and bleeding.
 
 As to the purging, he alledges the
@@ -648,7 +643,7 @@ Constitution, without the Assistance of
 an acute Distemper; but how weak must
 .pn +1
 .bn 022.png
-that Patient be, who suffer'd the Weight
+that Patient be, who suffer’d the Weight
 of both, and another Evacuation as destructive
 of natural Strength as the other,
 <i>viz.</i> Bleeding. As to the Bleeding, the
@@ -698,7 +693,7 @@ Life of a Subject is concerned.
 <i>Council for the Prisoner.</i>
 
 My Lord, the Charge against our
-learned Client, as open'd by my Brother
+learned Client, as open’d by my Brother
 the Attorney General, is of a very deep
 Nature; but I hope we shall convince this
 august Court, that the whole Prosecution
@@ -740,7 +735,7 @@ not so much as dreamed of a Cure now;
 when the old Women of the Faculty meet
 with any such, they still persist in their
 old Recipes; and by that means killed
-thousands of his Majesty's Subjects every Day
+thousands of his Majesty’s Subjects every Day
 with Impunity; and that out of Laziness,
 that they will not be at the Trouble to search
 for new Cures to new Cases; now our Client
@@ -758,7 +753,7 @@ short and eazy, its only <i>Bleed</i> and <i>Purge</i>:
 He apprehends the Reasonableness of this
 Practice, is like a self-evident Truth in the
 Mathematicks; all Diseases flow from peccant
-Humours, being mix'd with the Mass
+Humours, being mix’d with the Mass
 of Blood, which are so closely united to it,
 that they cannot be discharged by Perspirations
 .pn +1
@@ -771,7 +766,7 @@ answers all Cases, all Circumstances, Times,
 Seasons and Climates, and is an Improvement
 in Physick, for which we hope our Client
 will be rewarded with a Statue instead of a
-H----r.
+H——r.
 
 They have made a deal of Pother about
 Sweating, but is it not plain, that alone
@@ -806,7 +801,11 @@ to excuse us from publishing.
 .sp 2
 .h3
 <g><i>FINIS.</i></g>
-.hr 25%
+
+.fm
+.fn A
+The God of Physick amongst the <i>Chinese</i>.
+.fn-
 
 .pb
 
