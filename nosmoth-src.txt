@@ -8,7 +8,7 @@
 .ll 72
 
 // Define CSS
-.de .tnbox { background-color:#E3E4FA;border:1px solid silver; padding: 0.5em; margin:2em 10% 0 10%; }
+.de .tnbox { background-color:#E3E4FA; border:1px solid silver; padding: 0.5em; margin:2em 10% 0 10%; }
 
 // Define macros
 
@@ -40,35 +40,38 @@
 .h1 title='The Genuine Tryal of Dr. Nosmoth, a Physican in Pekin, for the Murder of the Mandarin Tonwin, Treasurer to the Army of the Emperor of China, Before the Great Council of Mandarines'
 
 .ce
-<fs=125%>THE GENUINE</fs>
+<fs=165%>THE GENUINE</fs>
 .sp 1
 .ce
 <fs=250%>TRYAL</fs>
 .sp 1
 .ce
-<fs=90%>OF</fs>
+<fs=80%>OF</fs>
 .sp 1
 .ce
-<fs=190%>Dr. <i>NOSMOTH</i>,</fs>
+<fs=200%>Dr. <i>NOSMOTH</i>,</fs>
 .sp 1
 .ce
-<fs=90%>A</fs>
+<fs=80%>A</fs>
 .sp 1
 .ce
-<fs=140%>Physician in <sc>Pekin</sc>;</fs>
+<fs=115%>Physician in <sc>Pekin</sc>;</fs>
 .sp 1
 
-.ce 5
-<fs=90%>FOR</fs>
-<fs=110%>The Murder of the MANDARIN</fs>
-<sc>Tonwin</sc>, Treasurer to the Army of
-the Emperor of <sc>China</sc>, before the great
-Council of <sc>Mandarines</sc>.
+.ce
+<g>FOR</g>
+
+.ta l:20 w=none
+<al=l><fs=110%>The Murder of the MANDARIN</fs>
+<al=l><div style='text-indent:1em;'><sc>Tonwin</sc>, Treasurer to the Army of</div>
+<al=l><div style='text-indent:1em;'>the Emperor of <sc>China</sc>, before the great</div>
+<al=l><div style='text-indent:1em;'>Council of <sc>Mandarines</sc>.</div>
+.ta-
 
 .hr 25%
 
 .ce 3
-<fs=90%>TAKEN</fs>
+<g>TAKEN</g>
 In short Hand by the <g>LINGUIST</g> of the
 <i>English</i> Factory.
 
@@ -82,22 +85,22 @@ Printed for <sc>M. Cooper</sc>, at the <i>Globe</i> in
 .ce
 (Price Six-Pence.)
 
+.sp 4
 .pb
 .pn +4
 .bn 003.png
 
+.de #i003_01 { width: 100%; max-width: 30em; }
+.il id=i003_01 fn=i003_01.png w=100%
+
 .sp 4
 
-[Illustration]
-
-.sp 4
-
-.ce 2
-THE
-INTRODUCTION.
+.h2
+<fs=85%>THE</fs>||<fs=125%>INTRODUCTION.</fs>
 
 .sp 2
 
+.di i003_02.png 80 80 0.7
 Before we enter upon
 this remarkable Tryal, it will
 not be improper to inform
@@ -325,7 +328,8 @@ Forms, where I could with Propriety,
 especially were they served to make the
 Tryal more Intelligible.
 
-[Illustration]
+.de #i011 { width: 100%; max-width: 30em; }
+.il id=i011 fn=i011.png w=100%
 
 .sp 4
 .h2
@@ -432,6 +436,7 @@ The God of Physick amongst the <i>Chinese</i>.
 .fn-
 
 .sp 2
+.h3
 <i>Council for the Prisoner.</i>
 
 My Lord President, before we, that
@@ -465,6 +470,7 @@ Client; therefore we hope this august
 Court will quash this Indictment.
 
 .sp 2
+.h3
 <i>Council for the Emperor.</i>
 
 My Lord, We are not a little surpriz'd
@@ -532,6 +538,7 @@ who rising up opened the Case as
 follows.
 
 .sp 2
+.h3
 <i>Council for the Emperor.</i>
 
 My Lord, the Prosecutors for his Imperial
@@ -677,6 +684,7 @@ their own Conceits, in Cases where the
 Life of a Subject is concerned.
 
 .sp 2
+.h3
 <i>Council for the Prisoner.</i>
 
 My Lord, the Charge against our
@@ -786,4 +794,6 @@ which we must beg of the Publick
 to excuse us from publishing.
 
 .sp 2
-<i>FINIS.</i>
+.h3
+<g><i>FINIS.</i></g>
+.hr 25%
