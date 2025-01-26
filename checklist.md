@@ -256,11 +256,11 @@ We now proceed to create a Plain Text Version of the book.
 * [ ] Search for `<` and `>` to locate any tag markup not yet removed.
 
 ### Check revisit list
-* [ ] Check "things to revisit" list for anything lingering in the text version
+* [X] Check "things to revisit" list for anything lingering in the text version
 
 ### Add TN
-* [ ] Add transcriber's notes, example follows. Use 4+2 blank lines as in new chapter
-* [ ] Rewrap this section of text when finished.
+* [X] Add transcriber's notes, example follows. Use 4+2 blank lines as in new chapter
+* [X] Rewrap this section of text when finished.
 
 ```text
 Transcriber’s Note
@@ -475,12 +475,12 @@ b:after { content: "="; }
 * Also a utility `kepubify` (link below) that converts; it's unclear what this conversion does that's any better than just renaming the file. Changing the filename is enough to invoke a different / better rendering engine on Kobo devices.
 
 ### Build and upload Ebooks
-* [ ] `make zip`
-* [ ] Upload to [ebookmaker](https://ebookmaker.pglaf.org/) to generate Ebook files
-* [ ] `make ebooksget cache={cache_number}` to download ebook files
-* [ ] Convert epub3 with [kepubify](https://pgaskin.net/kepubify/try/)
-* [ ] Upload epub3 with [Send to Kindle](https://www.amazon.com/gp/sendtokindle)
-* [ ] Add epub3 to Apple Books
+* [X] `make zip`
+* [X] Upload to [ebookmaker](https://ebookmaker.pglaf.org/) to generate Ebook files
+* [X] `make ebooksget cache={cache_number}` to download ebook files
+* [X] Convert epub3 with [kepubify](https://pgaskin.net/kepubify/try/)
+* [X] Upload epub3 with [Send to Kindle](https://www.amazon.com/gp/sendtokindle)
+* [X] Add epub3 to Apple Books
 * [ ] Add epub, epub3, renamed-kepub, converted-kepub to Dropbox for Kobo
 
 ### Ebook review
@@ -516,7 +516,7 @@ Don't necessarily have to do *all* of these, but these are what I have.
 
 Submit for a decent length of time, up to the maximum. Check what's in `ebooks/` folder, it'll all be uploaded.
 
-* [ ] Make sure git is clean, committed, pushed
+* [X] Make sure git is clean, committed, pushed
 * [ ] `make sr`
 * [ ] Go to [project page](https://www.pgdp.net/c/project.php?id=projectID676593ebf2d84), select SR time period, upload `nosmoth-sr.zip`
 * [ ] Subscribe to “user uploads a SR report” item

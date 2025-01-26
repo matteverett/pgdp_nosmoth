@@ -19,9 +19,12 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [X] For title page, keep color or convert to black/white? -- Asking for help on forum
 * [X] Drop cap - letter or illustration? -- First drop cap is illustration, second is letter
 * [X] H----r: Four hyphens?
-* [ ] Title page for txt file -- nearly unreadable
+* [X] Title page for txt file -- nearly unreadable
+* [X] No ligature if not in original?
+
+### Guiguts feedback ###
+
 * [ ] misspelled.rc missing?
-* [ ] No ligature if not in original?
 * [ ] Capture groups in search/replace not working?
 
 ### Project manager notes ###
@@ -43,8 +46,8 @@ Goettingen has this as "[2],5-29,[1]p ; 8°", Yale have it as "1 p. l., 5-29 p. 
 
 ### Illustrations ###
 
-* [ ] i003.jpg
-* [ ] i011.jpg
+* [X] i003.jpg
+* XX] i011.jpg
 * [ ] iTitle.jpg
 
 ### Proofer's notes ###

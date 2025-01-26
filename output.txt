@@ -1,0 +1,77 @@
+﻿unzipping /htdocs/ebookmaker/cache/20250126090451/nosmoth.zip
+Archive:  /htdocs/ebookmaker/cache/20250126090451/nosmoth.zip
+  inflating: /htdocs/ebookmaker/cache/20250126090451/nosmoth.html  
+   creating: /htdocs/ebookmaker/cache/20250126090451/images/
+  inflating: /htdocs/ebookmaker/cache/20250126090451/images/ititle.png  
+  inflating: /htdocs/ebookmaker/cache/20250126090451/images/i003b.png  
+  inflating: /htdocs/ebookmaker/cache/20250126090451/images/i003a.png  
+  inflating: /htdocs/ebookmaker/cache/20250126090451/images/i011.png  
+  inflating: /htdocs/ebookmaker/cache/20250126090451/images/cover.jpg  
+  inflating: /htdocs/ebookmaker/cache/20250126090451/nosmoth-utf8.txt  
+
+Input file: /htdocs/ebookmaker/cache/20250126090451/nosmoth.html
+
+--- Validating your uploaded file
+/htdocs/ebookmaker/cache/20250126090451/nosmoth.html
+--- Validation complete
+
+
+--- Starting ebookmaker processing
+EbookMaker 0.13.4
+INFO:root:using an HTML5 parser
+INFO:root:No PG header marker found.
+INFO:root:No PG footer marker found.
+INFO:root:Empty alt text for file:///htdocs/ebookmaker/cache/20250126090451/images/ititle.png. 
+INFO:root:See https://www.pgdp.net/wiki/Accessible_HTML_eBooks#Alt_text
+INFO:root:Not configured, using /var/www for FILESDIR
+INFO:root:Empty alt text for file:///htdocs/ebookmaker/cache/20250126090451/images/i003a.png. 
+INFO:root:See https://www.pgdp.net/wiki/Accessible_HTML_eBooks#Alt_text
+INFO:root:Not configured, using /var/www for FILESDIR
+INFO:root:Empty alt text for file:///htdocs/ebookmaker/cache/20250126090451/images/i003b.png. 
+INFO:root:See https://www.pgdp.net/wiki/Accessible_HTML_eBooks#Alt_text
+INFO:root:Not configured, using /var/www for FILESDIR
+INFO:root:Empty alt text for file:///htdocs/ebookmaker/cache/20250126090451/images/i011.png. 
+INFO:root:See https://www.pgdp.net/wiki/Accessible_HTML_eBooks#Alt_text
+INFO:root:Not configured, using /var/www for FILESDIR
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+INFO:root: picsdir.images made in 0:00:00.004513
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+INFO:root:Plain text file /htdocs/ebookmaker/cache/20250126090451/10001-0.txt aborted due to html input
+INFO:root: txt.utf-8 made in 0:00:00.001433
+INFO:root:using an HTML5 parser
+INFO:root:No PG header marker found.
+INFO:root:No PG footer marker found.
+INFO:root:Empty alt text for file:///htdocs/ebookmaker/cache/20250126090451/images/ititle.png. 
+INFO:root:See https://www.pgdp.net/wiki/Accessible_HTML_eBooks#Alt_text
+INFO:root:Not configured, using /var/www for FILESDIR
+INFO:root:Empty alt text for file:///htdocs/ebookmaker/cache/20250126090451/images/i003a.png. 
+INFO:root:See https://www.pgdp.net/wiki/Accessible_HTML_eBooks#Alt_text
+INFO:root:Not configured, using /var/www for FILESDIR
+INFO:root:Empty alt text for file:///htdocs/ebookmaker/cache/20250126090451/images/i003b.png. 
+INFO:root:See https://www.pgdp.net/wiki/Accessible_HTML_eBooks#Alt_text
+INFO:root:Not configured, using /var/www for FILESDIR
+INFO:root:Empty alt text for file:///htdocs/ebookmaker/cache/20250126090451/images/i011.png. 
+INFO:root:See https://www.pgdp.net/wiki/Accessible_HTML_eBooks#Alt_text
+INFO:root:Not configured, using /var/www for FILESDIR
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+INFO:root:validating...
+INFO:root:10001-h.html validates ok.
+INFO:root: html.images made in 0:00:01.956306
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+INFO:root:validating...
+INFO:root:10001-epub.epub validates ok.
+INFO:root: epub.noimages made in 0:00:04.938564
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+INFO:root:validating...
+INFO:root:10001-images-epub.epub validates ok.
+INFO:root: epub.images made in 0:00:06.244672
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+INFO:root: kindle.images made in 0:00:01.462184
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+INFO:root:validating...
+INFO:root:10001-images-epub3.epub validates ok.
+INFO:root: epub3.images made in 0:00:06.775277
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+INFO:root: kf8.images made in 0:00:01.244422
+INFO:root: Finished jobs. Total time: 0:00:23.087152
+--- ebookmaker complete

@@ -1,8 +1,8 @@
-// ppgen source for The Process of Gilding and Bronzing Picture Frames
+// ppgen source for The genuine tryal of Dr. Nosmoth
 // ppgen ver 3.57e
 
 // Set title
-.dt The Process of Gilding and Bronzing Picture Frames | Project Gutenberg
+.dt The genuine tryal of Dr. Nosmoth | Project Gutenberg
 
 // Set line length
 .ll 72
