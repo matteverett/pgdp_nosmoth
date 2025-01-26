@@ -3,6 +3,7 @@ guiguts.log
 *.html
 *.bin
 *.txt.json
+/output/
 /gimp/
 /zipdir/
 /ebooks/

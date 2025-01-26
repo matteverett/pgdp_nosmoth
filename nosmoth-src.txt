@@ -22,52 +22,29 @@
 
 // Insert cover image for HTML version
 .if h
-.de #img_cover { width: 100%; max-width: 40em; }
-.il id=img_cover fn=cover.jpg w=100%
+.de #img_ititle { width: 100%; max-width: 20em; }
+.il id=img_ititle fn=ititle.png w=100%
 .pb
 .if-
 
 .pn 1
 .bn 001.png
 
-.if h
-.de #img_title { width: 100%; max-width: 32.5em; }
-.il id=img_title fn=title.png w=100%
-.pb
-.if-
-
 .sp 4
 
 .h1 title='The Genuine Tryal of Dr. Nosmoth, a Physician in Pekin, for the Murder of the Mandarin Tonwin, Treasurer to the Army of the Emperor of China, Before the Great Council of Mandarines'
+<fs=70%>THE GENUINE</fs>||<fs=180%><g>TRYAL</g></fs>||<fs=70%>OF</fs>||<fs=140%>Dr. <g><i>NOSMOTH</i></g>,</fs>||<fs=70%>A</fs>||<fs=100%>Physician in <g><sc>Pekin</sc></g>;</fs>
 
-.ce
-<fs=165%>THE GENUINE</fs>
 .sp 1
-.ce
-<fs=250%>TRYAL</fs>
-.sp 1
-.ce
-<fs=80%>OF</fs>
-.sp 1
-.ce
-<fs=200%>Dr. <i>NOSMOTH</i>,</fs>
-.sp 1
-.ce
-<fs=80%>A</fs>
-.sp 1
-.ce
-<fs=115%>Physician in <sc>Pekin</sc>;</fs>
-.sp 1
-
 .ce
 <g>FOR</g>
 
 .if h
 .ta l:1 w=none
-<al=l><fs=110%>The Murder of the MANDARIN</fs>
-<al=l><div style='text-indent:1em;'><sc>Tonwin</sc>, Treasurer to the Army of</div>
+<al=l><fs=110%>The Murder of the <g>MANDARIN</g></fs>
+<al=l><div style='text-indent:1em;'><g><sc>Tonwin</sc></g>, Treasurer to the Army of</div>
 <al=l><div style='text-indent:1em;'>the Emperor of <sc>China</sc>, before the great</div>
-<al=l><div style='text-indent:1em;'>Council of <sc>Mandarines</sc>.</div>
+<al=l><div style='text-indent:1em;'>Council of <g><sc>Mandarines</sc></g>.</div>
 .ta-
 .if-
 .if t
@@ -100,8 +77,8 @@ Printed for <sc>M. Cooper</sc>, at the <i>Globe</i> in
 .pn +4
 .bn 003.png
 
-.de #i003_01 { width: 100%; max-width: 30em; }
-.il id=i003_01 fn=i003_01.png w=100%
+.de #i003a { width: 100%; max-width: 30em; }
+.il id=i003a fn=i003a.png w=100%
 
 .sp 4
 
@@ -110,7 +87,7 @@ Printed for <sc>M. Cooper</sc>, at the <i>Globe</i> in
 
 .sp 2
 
-.di i003_02.png 80 80 0.7
+.di i003b.png 80 80 0.7
 Before we enter upon
 this remarkable Tryal, it will
 not be improper to inform
