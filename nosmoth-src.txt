@@ -18,6 +18,7 @@
 // Paragraph formatting, indent paragraphs by 1.0 em.
 .pi
 .nr psi 0.75em
+.nr tag-g ""
 
 // Insert cover image for HTML version
 .if h
@@ -69,12 +70,11 @@
 <al=l><div style='text-indent:1em;'>Council of <sc>Mandarines</sc>.</div>
 .ta-
 .if-
-.if ta
-.ta l:40
-<al=l>The Murder of the MANDARIN
-<al=l>\_\_<sc>Tonwin</sc>, Treasurer to the Army of
-<al=l>\_\_the Emperor of <sc>China</sc>, before the great
-<al=l>\_\_Council of <sc>Mandarines</sc>.
+.if t
+.ta l:44
+<al=l>The Murder of the MANDARIN TONWIN, Treasurer
+<al=l>\_\_to the Army of the Emperor of CHINA,
+<al=l>\_\_before the great Council of MANDARINES.
 .ta-
 .if-
 
@@ -440,9 +440,16 @@ and the distressed a great Protector; this
 is your Accusation, are you Guilty or not
 Guilty.
 
+.if t
+.fm
+.fn A
+The God of Physick amongst the <i>Chinese</i>.
+.fn-
+.if-
+
 .sp 2
-.h3
-<i>Council for the Prisoner.</i>
+.ce
+<fs=1.2em><i>Council for the Prisoner.</i></fs>
 
 My Lord President, before we, that
 have the Honour to be of Council for the
@@ -475,8 +482,8 @@ Client; therefore we hope this august
 Court will quash this Indictment.
 
 .sp 2
-.h3
-<i>Council for the Emperor.</i>
+.ce
+<fs=1.2em><i>Council for the Emperor.</i></fs>
 
 My Lord, We are not a little surpriz’d
 to find the Council for the Prisoner,
@@ -543,8 +550,8 @@ who rising up opened the Case as
 follows.
 
 .sp 2
-.h3
-<i>Council for the Emperor.</i>
+.ce
+<fs=1.2em><i>Council for the Emperor.</i></fs>
 
 My Lord, the Prosecutors for his Imperial
 Majesty, are so far from taking any
@@ -689,8 +696,8 @@ their own Conceits, in Cases where the
 Life of a Subject is concerned.
 
 .sp 2
-.h3
-<i>Council for the Prisoner.</i>
+.ce
+<fs=1.2em><i>Council for the Prisoner.</i></fs>
 
 My Lord, the Charge against our
 learned Client, as open’d by my Brother
@@ -799,13 +806,19 @@ which we must beg of the Publick
 to excuse us from publishing.
 
 .sp 2
-.h3
-<g><i>FINIS.</i></g>
+.ce
+<fs=1.2em><g><i>FINIS.</i></g></fs>
 
-.fm
+.if h
+.sp 4
+.h2
+Footnotes
+
+.fm rend=no
 .fn A
 The God of Physick amongst the <i>Chinese</i>.
 .fn-
+.if-
 
 .pb
 
