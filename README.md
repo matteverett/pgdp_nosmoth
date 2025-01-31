@@ -47,8 +47,8 @@ Goettingen has this as "[2],5-29,[1]p ; 8°", Yale have it as "1 p. l., 5-29 p. 
 ### Illustrations ###
 
 * [X] i003.jpg
-* XX] i011.jpg
-* [ ] iTitle.jpg
+* [X] i011.jpg
+* [X] iTitle.jpg
 
 ### Proofer's notes ###
 
@@ -58,6 +58,9 @@ Goettingen has this as "[2],5-29,[1]p ; 8°", Yale have it as "1 p. l., 5-29 p. 
 * over-*ruled: overruled per Google Ngram (https://books.google.com/ngrams/graph?content=overruled%2C%5Bover+-+ruled%5D&year_start=1740&year_end=1760&corpus=en&smoothing=3)
 * follows,[**.?]: Replaced , with . to make consistent with formatting throughout the rest of the book
 * Gen-*man: Genman per Google Ngram (https://books.google.com/ngrams/graph?content=Genman%2C%5BGen+-+man%5D&year_start=1740&year_end=1760&corpus=en&smoothing=3)
+* p. 012: Replaced 'were' with 'where'
+* p. 013: Replaced 'Sugestion' with 'Suggestion'
+* p. 019: Replaced 'intened' with 'intended'
 
 ### Joined hyphenated words ###
 

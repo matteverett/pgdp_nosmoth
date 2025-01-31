@@ -8,4 +8,5 @@ guiguts.log
 /zipdir/
 /ebooks/
 /.vscode/
+/sr-reports/
 .DS_Store

@@ -312,7 +312,7 @@ and in order to make the whole more
 comprehensible to an <i>English</i> Reader, I
 have all along substituted some <i>English</i>
 Forms, where I could with Propriety,
-especially were they served to make the
+especially where they served to make the
 Tryal more Intelligible.
 
 .de #i011 { width: 100%; max-width: 30em; }
@@ -367,7 +367,7 @@ Commander of Kings, and Beloved of
 the Sun, to whom all are Slaves &c. &c.
 For, that you not having the fear of the
 Mighty Gods before your Eyes, but being
-Instigated thereto, by the Sugestion
+Instigated thereto, by the Suggestion
 of the Black Angel, who Commandeth
 the Burning Lake; and with malice in
 your Heart, and out of Envy and premedicated
@@ -552,7 +552,7 @@ from those prescribed by your
 Lordships in similar Cases; apply’d Medicines
 improper for the Patient’s Distemper;
 and in every Circumstance, acted,
-as if he rather intened, to increase the
+as if he rather intended, to increase the
 Malady, than save his Patient’s Life; we
 shall make it appear, that the Doctor instead
 of assisting Nature, has endeavoured
@@ -565,7 +565,7 @@ his Illness; hasten’d his End, much more
 than the Fever it self: Out of Respect to
 the <i>Diploma</i> issuing out of the Court,
 which entitled the learned Gentleman to
-practice the divine Science of Phisick,
+practice the divine Science of Physick,
 we dare not attribute his Misconduct to
 Ignorance; Charity forbids us to suppose
 it Malice; and good Manners hinders

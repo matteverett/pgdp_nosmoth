@@ -517,11 +517,11 @@ Don't necessarily have to do *all* of these, but these are what I have.
 Submit for a decent length of time, up to the maximum. Check what's in `ebooks/` folder, it'll all be uploaded.
 
 * [X] Make sure git is clean, committed, pushed
-* [ ] `make sr`
-* [ ] Go to [project page](https://www.pgdp.net/c/project.php?id=projectID676593ebf2d84), select SR time period, upload `nosmoth-sr.zip`
-* [ ] Subscribe to “user uploads a SR report” item
-* [ ] Update my Trello project board with due date, set card to SR status
-* [ ] If time permits, smooth read it myself as well
+* [X] `make sr`
+* [X] Go to [project page](https://www.pgdp.net/c/project.php?id=projectID676593ebf2d84), select SR time period, upload `nosmoth-sr.zip`
+* [X] Subscribe to “user uploads a SR report” item
+* [X] Update my Trello project board with due date, set card to SR status
+* [X] If time permits, smooth read it myself as well
 
 ### Process SR feedback
 * [ ] After SR is finished, processed SR feedback into project.
