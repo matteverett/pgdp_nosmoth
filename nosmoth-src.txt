@@ -14,6 +14,7 @@
 
 // Page numbering
 .pn off // turn off visible page numbers
+.pn link
 
 // Paragraph formatting, indent paragraphs by 1.0 em.
 .pi
@@ -300,7 +301,7 @@ not at all dismay’d; but hugg’d himself
 in reflecting on his own Innocence, which
 comforted him the more, that he had not
 the least Suspicion, that the high Tribunal,
-before which he was he was to be try’d,
+before which he was to be try’d,
 would mix any Partiality in their Sentence.
 .pn +1
 .bn 011.png
@@ -800,16 +801,21 @@ The God of Physick amongst the <i>Chinese</i>.
 .pb
 
 .dv class=tnbox
-.ul
-.it Transcriber’s Notes:
+Transcriber’s Notes:
 .ul indent=1
-.it Missing or obscured punctuation was silently corrected.
-.it Typographical errors were silently corrected.
-.it Inconsistent spelling and hyphenation were made consistent only when a\
-predominant form was found in this book.
+.it The following issues should be noted, along with the resolution:
+.ta l:4 l:45 l:17 w=90%
+#11# | it was wispered about, that he had | <i>sic</i>: wispered
+#12# | before which he was [he was] to be try’d, | Removed.
+#13# | especially w[h]ere they served to make the | Added.
+#15# | Instigated thereto, by the Sug[g]estion | Added.
+#17# | sign’d by the nearest agnat of the deceas’d | <i>sic</i>: agnat
+#20# | rigorous Advantage of the learned Genman | <i>sic</i>: Genman
+#21# | as if he rather inten[d]ed, to increase the | Added.
+#21# | practice the divine Science of Ph[i/y]sick, | Replaced.
+.ta-
 .if t
 .it Text in italics is enclosed by underscores (<i>italics</i>).
 .if-
-.ul-
 .ul-
 .dv-
