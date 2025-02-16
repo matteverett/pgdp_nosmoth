@@ -8,7 +8,8 @@
 .ll 72
 
 // Define CSS
-.de .tnbox { background-color:#E3E4FA; border:1px solid silver; padding: 0.5em; margin:2em 10% 0 10%; }
+.de .tnbox { border:1px solid silver; padding: 0.5em; margin:2em 10% 0 10%; }
+.de h1 { line-height: 1em; }
 
 // Define macros
 
@@ -23,8 +24,7 @@
 
 // Insert cover image for HTML version
 .if h
-.de #img_ititle { width: 100%; max-width: 20em; }
-.il id=img_ititle fn=ititle.png w=100%
+.il fn=ititle.png w=320px ew=50%
 .pb
 .if-
 
@@ -78,8 +78,7 @@ Printed for <sc>M. Cooper</sc>, at the <i>Globe</i> in
 .pn +4
 .bn 003.png
 
-.de #i003a { width: 100%; max-width: 30em; }
-.il id=i003a fn=i003a.png w=100%
+.il fn=i003a.png w=480px ew=100%
 
 .sp 4
 
@@ -316,8 +315,7 @@ Forms, where I could with Propriety,
 especially where they served to make the
 Tryal more Intelligible.
 
-.de #i011 { width: 100%; max-width: 30em; }
-.il id=i011 fn=i011.png w=100%
+.il fn=i011.png w=480px ew=100%
 
 .sp 4
 .h2
@@ -801,7 +799,13 @@ The God of Physick amongst the <i>Chinese</i>.
 .pb
 
 .dv class=tnbox
-Transcriber’s Notes:
+.ce
+.if h
+<b>Transcriber’s Notes</b>
+.if-
+.if t
+Transcriber's Notes
+.if-
 .ul indent=1
 .it The following issues should be noted, along with the resolution:
 .ta l:4 l:45 l:17 w=90%
