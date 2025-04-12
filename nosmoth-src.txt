@@ -14,7 +14,6 @@
 // Define macros
 
 // Page numbering
-.pn off // turn off visible page numbers
 .pn link
 
 // Paragraph formatting, indent paragraphs by 1.0 em.
@@ -272,7 +271,7 @@ Death of this great Man, so universally
 esteemed, was somewhat sudden; and his
 Physician was blamed by some, tho’ not
 by the <i>Mandarines</i> nearest Friends; however,
-it was wispered about, that he had
+it was <target=tn1>wispered about, that he had
 deviated from the Rules laid down by
 the great Council of <i>Mandarines</i>; and by
 .pn +1
@@ -300,7 +299,7 @@ not at all dismay’d; but hugg’d himself
 in reflecting on his own Innocence, which
 comforted him the more, that he had not
 the least Suspicion, that the high Tribunal,
-before which he was to be try’d,
+before which <target=tn2>he was to be try’d,
 would mix any Partiality in their Sentence.
 .pn +1
 .bn 011.png
@@ -312,7 +311,7 @@ and in order to make the whole more
 comprehensible to an <i>English</i> Reader, I
 have all along substituted some <i>English</i>
 Forms, where I could with Propriety,
-especially where they served to make the
+especially <target=tn3>where they served to make the
 Tryal more Intelligible.
 
 .il fn=i011.png w=480px ew=100%
@@ -355,7 +354,7 @@ his Indictment; which was conceived
 in Words to this Effect.
 
 You <i>Nosmoth</i>, Doctor of the Divine
-Sience of Physick, stand indicted before
+<target=tn4>Science of Physick, stand indicted before
 this Sovereign Court, at the Suit of our
 .pn +1
 .bn 013.png
@@ -366,7 +365,7 @@ Commander of Kings, and Beloved of
 the Sun, to whom all are Slaves &c. &c.
 For, that you not having the fear of the
 Mighty Gods before your Eyes, but being
-Instigated thereto, by the Suggestion
+Instigated thereto, by the <target=tn5>Suggestion
 of the Black Angel, who Commandeth
 the Burning Lake; and with malice in
 your Heart, and out of Envy and premedicated
@@ -448,7 +447,7 @@ Profession, to uncommon Hardships; who
 are already but too much at the Mercy of
 the designing and malicious: We have an
 Affidavit ready to read to your Lordships,
-sign’d by the nearest agnat of the deceas’d
+sign’d by the nearest <target=tn6>agnat of the deceas’d
 .pn +1
 .bn 016.png
 Lord; wherein they disclaim the Prosecution,
@@ -531,7 +530,7 @@ follows.
 
 My Lord, the Prosecutors for his Imperial
 Majesty, are so far from taking any
-rigorous Advantage of the learned Genman
+rigorous Advantage of the learned <target=tn7>Genman
 at the Bar, that they are resolved
 to try the Cause upon his own State of
 the Case now in the <i>Mandarin</i> Secretary’s
@@ -551,7 +550,7 @@ from those prescribed by your
 Lordships in similar Cases; apply’d Medicines
 improper for the Patient’s Distemper;
 and in every Circumstance, acted,
-as if he rather intended, to increase the
+as if he rather <target=tn8>intended, to increase the
 Malady, than save his Patient’s Life; we
 shall make it appear, that the Doctor instead
 of assisting Nature, has endeavoured
@@ -564,7 +563,7 @@ his Illness; hasten’d his End, much more
 than the Fever it self: Out of Respect to
 the <i>Diploma</i> issuing out of the Court,
 which entitled the learned Gentleman to
-practice the divine Science of Physick,
+practice the divine Science of <target=tn9>Physick,
 we dare not attribute his Misconduct to
 Ignorance; Charity forbids us to suppose
 it Malice; and good Manners hinders
@@ -809,14 +808,15 @@ Transcriber's Notes
 .ul indent=1
 .it The following issues should be noted, along with the resolution:
 .ta l:4 l:45 l:17 w=90%
-#11# | it was wispered about, that he had | <i>sic</i>: wispered
-#12# | before which he was [he was] to be try’d, | Removed.
-#13# | especially w[h]ere they served to make the | Added.
-#15# | Instigated thereto, by the Sug[g]estion | Added.
-#17# | sign’d by the nearest agnat of the deceas’d | <i>sic</i>: agnat
-#20# | rigorous Advantage of the learned Genman | <i>sic</i>: Genman
-#21# | as if he rather inten[d]ed, to increase the | Added.
-#21# | practice the divine Science of Ph[i/y]sick, | Replaced.
+#11:tn1# | it was wispered about, that he had | <i>sic</i>: wispered
+#12:tn2# | before which he was [he was] to be try’d, | Removed.
+#13:tn3# | especially w[h]ere they served to make the | Added.
+#14:tn4# | S[c]ience of Physick, stand indicted before | Added.
+#15:tn5# | Instigated thereto, by the Sug[g]estion | Added.
+#17:tn6# | sign’d by the nearest agnat of the deceas’d | <i>sic</i>: agnat
+#20:tn7# | rigorous Advantage of the learned Genman | <i>sic</i>: Genman
+#21:tn8# | as if he rather inten[d]ed, to increase the | Added.
+#21:tn9# | practice the divine Science of Ph[i/y]sick, | Replaced.
 .ta-
 .if t
 .it Text in italics is enclosed by underscores (<i>italics</i>).
