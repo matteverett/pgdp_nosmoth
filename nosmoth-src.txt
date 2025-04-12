@@ -81,7 +81,7 @@ Printed for <sc>M. Cooper</sc>, at the <i>Globe</i> in
 
 .sp 4
 
-.h2
+.h2 nobreak
 <fs=85%>THE</fs>||<fs=125%>INTRODUCTION.</fs>
 
 .sp 2
